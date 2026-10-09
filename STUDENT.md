@@ -6,13 +6,13 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
-| GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Full Name | SamDavid Nwabanne Chiemelie |
+| GitHub Username | samdavidnwabanne |
+| Email Address | workofart.avatarcollections@gmail.com |
+| Phone / WhatsApp | 09012716255 |
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
-| LinkedIn Profile | |
+| Programme Start Date | 07/09/2026 |
+| LinkedIn Profile | https://x.com/samdavidnwabane |
 
 ---
 
@@ -20,7 +20,7 @@ Fill in every field below before your first commit. This file is how instructors
 
 Write 2–3 sentences describing what you specifically want to be able to do by the end of the 8 weeks.
 
-> Replace this line with your learning objective.
+> To gain practical knowledge and experience in AI, Automation and Robotics, and improve my technical skills.
 
 ---
 
