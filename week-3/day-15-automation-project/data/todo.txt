@@ -1,0 +1,7 @@
+Things to do this week
+
+[ ] Finish the Python exercises
+[ ] Push the code to GitHub
+[ ] Update the project README
+[ ] Reply to the instructor's email
+[ ] Practise file handling with os and shutil

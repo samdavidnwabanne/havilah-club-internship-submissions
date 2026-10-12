@@ -1,0 +1,8 @@
+Team Meeting Notes - Monday
+
+Attendees: Ada, Tunde, Ngozi, Samuel
+
+1. Project update: the first version of the weather app is ready for testing.
+2. Ngozi will review the data cleaning script before Wednesday.
+3. Samuel will prepare the monthly report.
+4. Next meeting: Monday, 10:00 AM.
